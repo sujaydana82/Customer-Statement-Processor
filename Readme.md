@@ -12,11 +12,10 @@ The purpose of this script is to automate the validation process of customer sta
 
 1. Clone the [repository](https://github.com/sujaydana82/Customer-Statement-Processor) or download the script file (`Customer_Statement_Processor.py`).
 2. Ensure Python 3.x is installed on your system.
-3. Place the CSV and XML files containing the customer statement records in the same directory as the script.
-4. Run the script using the command `python Customer_Statement_Processor.py`.
-5. The script will process the provided CSV and XML files, validate the data, and generate a report highlighting any inconsistencies.
-6. The validation report will be saved as a CSV file with a filename format of `validation_report_YYYYMM.csv`, where `YYYY` is the year and `MM` is the month the report was generated for.
-7. Also the validation report will be displayed in console when run locally.
+3. Run the script using the command `python Customer_Statement_Processor.py`.
+4. The script will process the provided CSV and XML files, validate the data, and generate a report highlighting any inconsistencies.
+5. The validation report will be saved as a CSV file with a filename format of `validation_report_YYYYMM.csv`, where `YYYY` is the year and `MM` is the month the report was generated for.
+6. Also the validation report will be displayed in console when run locally.
 
 ## Script Functionality
 
